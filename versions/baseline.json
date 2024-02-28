@@ -1,0 +1,8 @@
+{
+    "default": {
+        "unity": {
+            "baseline": "2.6.0_RC1",
+            "port-version": 0
+        }
+    }
+}
