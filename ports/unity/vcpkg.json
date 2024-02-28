@@ -1,5 +1,12 @@
 {
     "name": "unity",
     "version-string": "2.6.0_RC1",
-    "description": "Simple Unit Testing for C"
+    "description": "Simple Unit Testing for C",
+    "homepage": "https://github.com/ThrowTheSwitch/Unity",
+    "dependencies": [
+        {
+            "name": "vcpkg-cmake",
+            "host": true
+        }
+    ]
 }
